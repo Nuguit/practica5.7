@@ -1,0 +1,44 @@
+#parrafos{
+    font-size: 16px;
+}
+#parrafouno{
+    font-size: 1.5em;
+}
+#parrafodos{
+    font-size: 1.2em;
+}
+#parrafotres{
+    font-size: 0.8em;
+}
+
+
+
+
+#cajauno{
+    width: 20rem;
+    border: 2px solid;
+}
+#cajados {
+    width: 15rem;
+    border: 2px solid;
+    }
+
+#cajatres{
+    width: 10em;
+    border: 2px solid;
+}
+
+*/
+ul{
+    border: 2px solid;
+}
+
+#listauno{
+    margin-bottom: 0.5em;
+}
+#listados{
+    margin-bottom: 1em;
+}
+#listatres{
+    margin-bottom: 1.5em;
+}

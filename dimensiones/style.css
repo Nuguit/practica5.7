@@ -1,0 +1,32 @@
+#uno{
+    width: 500px;
+    height: 300px;
+    border: 2px solid black;
+}
+img{
+    width: 30vmax;
+}
+header{
+    height: 80px;
+    border: 2px solid purple;
+}
+
+#cuadrado{
+    width: 200px;
+    border: 2px dotted;
+}
+
+#cuadrado > p{
+    width: 50%;
+    border: 2px solid fuchsia;
+}
+section{
+    display: flex;
+
+}
+
+#columna{
+    width: 200px;
+}
+
+/*Les he puesto borde para diferenciarlos bien y poder ver su tamaño*/

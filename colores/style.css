@@ -1,0 +1,21 @@
+#azul{
+    background-color: deepskyblue;
+}
+#random1{
+    background-color: #6A5ACD;
+}
+#random2{
+    background-color: #FFF0F5;
+}
+#random3{
+    background-color: #D8BFD8;
+}
+#rgb{
+    background-color: rgb(220, 20, 60)
+}
+#hsluno{
+    background-color: hsl(150, 90%, 50%);
+}
+#hsldos{
+    background-color: hsl(44, 17%, 19%);
+}
